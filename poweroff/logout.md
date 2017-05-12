@@ -1,0 +1,3 @@
+退出登陆
+logout
+windows中叫做注销某用户账户
